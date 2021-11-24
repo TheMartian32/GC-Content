@@ -68,4 +68,4 @@ def read_gc_content(file_path: str):
         return gc_content_dict
 
 
-read_gc_content("/Users/justinbuan/Downloads/rosalind_gc.txt")
+read_gc_content("ur path here ;)")
